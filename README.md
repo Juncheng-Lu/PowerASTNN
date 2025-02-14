@@ -1,7 +1,7 @@
 # PowerASTNN
 This is a software library for the paper "Power-ASTNN: A Deobfuscation and AST Neural Network Enabled Effective Detection Method for Malicious PowerShell Scripts."
 
-pipeline_for_PowerShell_AST.py:
+#pipeline_for_PowerShell_AST.py:
 This python file is used to construct the pkl files for the samples utilized during the training and testing processes. You can modify the data address parameters within to build pkl files for your own benign and malicious code, thereby adapting them to the format required for the training files.At the same time, modifications to the word2vec file are required. Please perform word2vec on the text file before running this file to obtain your pkl file. If you wish to replicate the experiments in this paper, you do not need to run the word2vec file, as the corresponding word2vec file has already been uploaded to this project.
 
 #train_for_all_scripts_to_word2vec.py:
