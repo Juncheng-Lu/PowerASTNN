@@ -10,4 +10,6 @@ This script is designed to process PowerShell script data and train a Word2Vec m
 #train_for_PowerShell_AST.py
 This document serves as the training and testing file corresponding to the model presented in this paper. The input format is in pkl format (you may modify it accordingly). If you wish to replicate the experiments in this paper, simply adjust the file paths as needed. If you intend to use your own dataset, you can follow the steps outlined above systematically.
 
+#PowerDecipient is under master
+
 If this article has been helpful to you, feel free to cite our work: Power-ASTNN: A Deobfuscation and AST Neural Network Enabled Effective Detection Method for Malicious PowerShell Scripts.
