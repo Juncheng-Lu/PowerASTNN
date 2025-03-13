@@ -15,7 +15,7 @@
   ```
 #### 2.下载工具
 **注意：工具所在的路径最好是全英文**
-```git clone https://github.com/```
+```git clone -b Power-Decipher https://github.com/Juncheng-Lu/PowerASTNN.git```
 
 #### 3.安装AMSI-Recorder
 + 把Amsi_Recorder.dll放在目录`C:\`下
