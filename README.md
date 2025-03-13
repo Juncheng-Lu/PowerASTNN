@@ -15,7 +15,7 @@
   ```
 #### 2.Download the tool
 **Note: The tool's path must be in English only.**
-```git clone https://github.com/```
+```git clone -b Power-Decipher https://github.com/Juncheng-Lu/PowerASTNN.git```
 
 #### 3.Install AMSI-Recorder
 + Place `Amsi_Recorder.dll` in the `C:\` directory.
