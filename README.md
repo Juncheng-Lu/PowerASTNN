@@ -110,7 +110,6 @@ Please make sure to install the packages required. For issues related to environ
 
 Register the dataset in data/dataset_info.json.
 ```json
-dataset_info.json
 {
   "train_dataset": {
     "file_name": "augmnent_datasets.json",
